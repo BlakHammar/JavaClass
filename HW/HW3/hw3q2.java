@@ -2,6 +2,7 @@ package HW.HW3;
 import java.util.Random;
 import java.util.Scanner;
 
+
 /*
 6.29 (Coin Tossing) Write an application that simulates coin tossing. Let the program toss a coin
 each time the user chooses the "Toss Coin" menu option. Count the number of times each side of
