@@ -43,4 +43,15 @@ public class Date {
     public String toString() {
         return String.format("%d/%d/%d", month, day, year);
     }
+    public int getMonth() {
+        return month;
+    }
+
+    public int getDay() {
+        return day;
+    }
+
+    public int getYear() {
+        return year;
+    }
 }
